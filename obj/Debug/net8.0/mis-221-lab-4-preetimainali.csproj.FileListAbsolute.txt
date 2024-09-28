@@ -1,0 +1,15 @@
+/Users/preetismacbookair/Documents/lab/mis-221-lab-4-preetimainali/bin/Debug/net8.0/mis-221-lab-4-preetimainali
+/Users/preetismacbookair/Documents/lab/mis-221-lab-4-preetimainali/bin/Debug/net8.0/mis-221-lab-4-preetimainali.deps.json
+/Users/preetismacbookair/Documents/lab/mis-221-lab-4-preetimainali/bin/Debug/net8.0/mis-221-lab-4-preetimainali.runtimeconfig.json
+/Users/preetismacbookair/Documents/lab/mis-221-lab-4-preetimainali/bin/Debug/net8.0/mis-221-lab-4-preetimainali.dll
+/Users/preetismacbookair/Documents/lab/mis-221-lab-4-preetimainali/bin/Debug/net8.0/mis-221-lab-4-preetimainali.pdb
+/Users/preetismacbookair/Documents/lab/mis-221-lab-4-preetimainali/obj/Debug/net8.0/mis-221-lab-4-preetimainali.GeneratedMSBuildEditorConfig.editorconfig
+/Users/preetismacbookair/Documents/lab/mis-221-lab-4-preetimainali/obj/Debug/net8.0/mis-221-lab-4-preetimainali.AssemblyInfoInputs.cache
+/Users/preetismacbookair/Documents/lab/mis-221-lab-4-preetimainali/obj/Debug/net8.0/mis-221-lab-4-preetimainali.AssemblyInfo.cs
+/Users/preetismacbookair/Documents/lab/mis-221-lab-4-preetimainali/obj/Debug/net8.0/mis-221-lab-4-preetimainali.csproj.CoreCompileInputs.cache
+/Users/preetismacbookair/Documents/lab/mis-221-lab-4-preetimainali/obj/Debug/net8.0/mis-221-lab-4-preetimainali.sourcelink.json
+/Users/preetismacbookair/Documents/lab/mis-221-lab-4-preetimainali/obj/Debug/net8.0/mis-221-lab-4-preetimainali.dll
+/Users/preetismacbookair/Documents/lab/mis-221-lab-4-preetimainali/obj/Debug/net8.0/refint/mis-221-lab-4-preetimainali.dll
+/Users/preetismacbookair/Documents/lab/mis-221-lab-4-preetimainali/obj/Debug/net8.0/mis-221-lab-4-preetimainali.pdb
+/Users/preetismacbookair/Documents/lab/mis-221-lab-4-preetimainali/obj/Debug/net8.0/mis-221-lab-4-preetimainali.genruntimeconfig.cache
+/Users/preetismacbookair/Documents/lab/mis-221-lab-4-preetimainali/obj/Debug/net8.0/ref/mis-221-lab-4-preetimainali.dll
